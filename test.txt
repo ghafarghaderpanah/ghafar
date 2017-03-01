@@ -1,0 +1,7 @@
+"hello world!"
+<<<<<<< HEAD
+seconde line
+test2 last line!
+=======
+>>>>>>> parent of 80b8b22... for commit
+ gool
